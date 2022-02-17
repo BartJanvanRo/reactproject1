@@ -1,6 +1,8 @@
 .checkout {}
 
-
+.checkout {
+    width: 100%;
+}
 
 .checkout_ad {
     width: 100%;
